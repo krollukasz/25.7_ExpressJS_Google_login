@@ -1,0 +1,31 @@
+{
+  "name": "25.7_expressjs_google_login",
+  "version": "1.0.0",
+  "description": "ExpressJS - Google login app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/25.7_ExpressJS_Google_login.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "Google_login",
+    "App",
+    "Learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/25.7_ExpressJS_Google_login/issues"
+  },
+  "homepage": "https://github.com/krollukasz/25.7_ExpressJS_Google_login#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0",
+    "pug": "^2.0.3"
+  }
+}
